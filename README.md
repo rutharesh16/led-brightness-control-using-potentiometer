@@ -17,4 +17,5 @@ Lower brightness → LED glows dimmer
 # 4\. Conclusion:
 
 This project helped us understand the working of a potentiometer, LED brightness control, resistance variation and proper breadboard connections. 
+![image](control_using_potentiometer.jpeg)
 
